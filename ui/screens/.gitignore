@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+gaze_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints / weights
+checkpoint/
+*.pth
+*.pt
+*.ckpt
+
+# Large model/data files
+*.dat
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
